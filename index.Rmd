@@ -1,0 +1,19 @@
+---
+title: "The Use of Locally Estimated Scatterplot Smoothing in Data Analysis"
+author: "Antigo,Angel"
+date: "`r Sys.time()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook: default
+bibliography: ["myRef.bib"]
+biblio-style: "apalike"
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract {-}
+
+This paper will study about conditional random fields.
